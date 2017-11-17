@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 16 de November de 2017 10:01
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.30
+WORDPRESS:	4.9
+PHP INFO:	7.0.10 | SAPI: apache2handler
+SERVER:		Apache/2.4.23 (Win32) PHP/7.0.10 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (12800M default) 
+MEMORY STACK: 12MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:16 | filtered:0 | create:16 
+FILTERED: [] 
+SQL CREATED: 20171116_rivieramdo19_6df9a533e10ed5df2676171116095948_database.sql 
+SQL FILE SIZE: 66.17KB (67754) 
+SQL FILE TIME: 2017-11-16 10:01:01 
+SQL RUNTIME: 0.78 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/wamp/www/riviera 
+ARCHIVE FILE: 20171116_rivieramdo19_6df9a533e10ed5df2676171116095948_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	72.29MB 
+STATS:	Dirs 314 | Files 2,490 
+SQL ADDED: 20171116_rivieramdo19_6df9a533e10ed5df2676171116095948_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2804
+    [filename] => C:\wamp\www\riviera\wp-snapshots\tmp\20171116_rivieramdo19_6df9a533e10ed5df2676171116095948_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 37.34MB 
+ARCHIVE RUNTIME: 36.96 sec. 
+MEMORY STACK: 12MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [C:/wamp/www/riviera/wp-snapshots/tmp/20171116_rivieramdo19_6df9a533e10ed5df2676171116095948_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 66.17KB 
+Installer File: 443.31KB 
+Archive File: 37.34MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 38.86 sec.
+PEAK PHP MEMORY USED: 14MB
+DONE PROCESSING => 20171116_rivieramdo19 16 de November de 2017 10:01
+ 

@@ -1,0 +1,87 @@
+.property-address, #property_map_address {
+	width: 100%;
+}
+#property_detail_layout #property_detail_layout_enabled,
+#property_detail_layout #property_detail_layout_disabled,
+#property_detail_layout_tabs #property_detail_layout_tabs_enabled,
+#property_detail_layout_tabs #property_detail_layout_tabs_disabled,
+#property_submit_layout #property_submit_layout_enabled,
+#property_submit_layout #property_submit_layout_disabled {
+	width: 250px;
+}
+.status_done {
+    width: 35%;
+    text-align: center;
+    background-color: green;
+    color: #fff;
+    float: right;
+    padding: 3px 25px;
+    text-transform: uppercase;
+}
+.status_not_dont {
+    width: 35%;
+    text-align: center;
+    background-color: red;
+    color: #fff;
+    float: right;
+    padding: 3px 25px;
+    text-transform: uppercase;
+}
+.rwmb-input input,
+.rwmb-input select {
+	width: 100%;    
+}
+.property_payment_box {
+    margin-top: 10px;
+}
+#cityestate_paid_submission .property_payment_box > p {
+    float: left;
+    padding-right: 24px;
+}
+#cityestate_paid_submission .property_payment_box select {
+    margin-top: 10px;
+    display: inline-block;
+    width: 54%;
+}
+.rwmb-input input[type="radio"] {
+    width: auto;
+}
+.button.rwmb-map-goto-address-button {
+    margin-top: 10px;
+}
+.rwmb-clone-icon {
+    margin-left: -15px !important;
+}
+.rwmb-tab-panel-property_agent .rwmb-input-list.inline li {
+    display: block !important;
+    margin: 10px 0;
+}
+.rwmb-column .rwmb-label label {
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+#package_unlimited_list_description input[type="checkbox"] {
+    width: auto !important;
+}
+.cityestate_invoice_meta .status_not_dont, .cityestate_invoice_meta .status_done {
+    margin-top: 10px;
+    float: none;
+}
+#cityestate_admin_approve_package, #cityestate_admin_approve_list {
+    background-color: #01c0c8;
+    color: #ffffff;
+    font-size: 15px;
+    float: right;
+    border-radius: 10px;
+    cursor: pointer;    
+    padding: 15px;    
+}
+.cityestate_invoice_info {
+    margin: 25px 0;
+}
+.cityestate_invoice_info p, .cityestate_invoice_info div {
+    display: inline;
+}
+.cityestate_invoice_info div {
+    font-weight: bold;
+}

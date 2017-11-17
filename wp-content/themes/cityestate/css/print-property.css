@@ -1,0 +1,318 @@
+/************** Property preint page **********************/
+#section-body {
+	min-height: 700px;
+	padding-bottom: 40px;
+	position: relative;
+}
+.print-detail {
+	margin: 0 auto;
+	width: 798px;
+}
+.print-detail .detail-block {
+	padding: 38px;
+}
+.detail-block {
+	background-color: #fff;
+	padding: 40px;
+}
+.print-header {
+	border-bottom: 1px solid #d7d7d7;
+	margin-bottom: 20px;
+	padding-bottom: 18px;
+	display: inline-block;
+	width: 100%;
+}
+.print-header .print-header-left {
+	float: left;
+	text-align: center;
+	width: 100%;
+}
+.print-logo {
+	display: inline-block;
+}
+a {
+	color: #00aeef;
+	text-decoration: none;
+}
+img {
+	height: auto;
+	max-width: 100%;
+}
+.print-logo .tag-line {
+	color: #000;
+	display: block;
+	font-weight: 400;
+	margin-top: 5px;
+}
+.print-header-detail .print-header-detail-left {
+	float: left;
+}
+.print-header-detail {
+	display: inline-block;
+	width: 100%;
+}
+.print-header-detail h1, .print-header-detail h4 {
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 28px;
+	margin-bottom: 4px;
+	overflow: hidden;
+	text-align: inherit;
+	text-overflow: ellipsis;
+	text-transform: inherit;
+	white-space: nowrap;
+	width: 100%;
+}
+.print-header-detail p {
+	color: #707070;
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 24px;
+	margin: 0;
+	text-align: inherit;
+	text-transform: inherit;
+}
+.print-header-detail .print-header-detail-right {
+	float: right;
+}
+.print-header-detail-left h1, 
+.print-header-detail-right h1 {
+	margin-top: 0px;
+}
+.print-header-detail-right h1,
+span.item-price {
+	color: #01c0c8;
+	float: left;
+	font-family: "Rubik",sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	margin-top: 8px;
+	margin-bottom: 0px;
+}
+.print-header-detail-right h4,
+span.item-sub-price {
+	color: #96a4b6;
+	font-family: "Rubik",sans-serif;
+	font-size: 12px;
+	font-weight: 200;
+}
+.print-banner {
+	margin-bottom: 30px;
+	text-align: center;
+}
+.print-banner .print-main-image {
+	position: relative;
+}
+.print-banner img {
+	max-width: 100%;
+}
+.print-banner .qr-image {
+	bottom: 0;
+	position: absolute;
+	right: 0;
+}
+.print-block {
+	border-bottom: 1px solid #d7d7d7;
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+}
+.media:first-child {
+	margin-top: 0;
+}
+.agent-media .media-left, 
+.agent-media .next-prev-block .media-right, 
+.next-prev-block .agent-media .media-right {
+	padding-right: 15px;
+}
+.agent-media .media-left a, 
+.agent-media .next-prev-block .media-right a, 
+.next-prev-block .agent-media .media-right a {
+	display: block;
+	width: 75px !important;
+}
+.detail-bar h4 {
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 20px;
+	margin: 0 0 20px;
+	text-align: inherit;
+	text-transform: inherit;
+}
+.print-detail .agent-media .media-heading {
+	font-size: 14px;
+	margin-bottom: 6px;
+	text-transform: capitalize;
+}
+.print-detail .agent-media ul {
+	font-size: 0;
+	padding: 0px;
+	list-style: none;
+}
+.print-detail .agent-media li {
+	display: inline-block;
+	font-size: 14px;
+	line-height: 16px;
+	width: 33%;
+}
+.print-detail .detail-title-inner {
+	border: medium none;
+	margin-bottom: 30px;
+	margin-top: 0;
+	padding-bottom: 0;
+}
+.detail-title-inner .title-inner {
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 16px;
+	margin: 0;
+	text-align: inherit;
+	text-transform: inherit;
+}
+.print-detail .detail-title-inner .title-inner {
+	font-size: 18px;
+	line-height: 20px;
+}
+.detail-bar p {
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 24px;
+	margin: 0 0 20px;
+	text-align: inherit;
+	text-transform: inherit;
+}
+.alert,
+#ihf-main-container #ihf-main-search-form .text-danger {
+	border-radius: 0;
+}
+.print-detail .alert, 
+.print-detail #ihf-main-container #ihf-main-search-form .text-danger, 
+#ihf-main-container #ihf-main-search-form .print-detail .text-danger {
+	margin-bottom: 30px;
+	padding: 0;
+}
+.alert > p, 
+#ihf-main-container #ihf-main-search-form .text-danger > p, 
+.alert > ul, #ihf-main-container #ihf-main-search-form .text-danger > ul {
+	margin-bottom: 0;
+}
+.print-detail .print-list-three-col {
+	-moz-columns: 3 auto;
+	-webkit-columns: 3 auto;
+	-o-columns: 3 auto;
+	columns: 3 auto;
+	padding-left: 10px;
+}
+.print-detail .print-list-three-col li {
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 28px;
+	margin: 0;
+	text-align: inherit;
+	text-transform: inherit;
+}
+.print-detail .accord-outer {
+	margin-bottom: 30px;
+}
+.print-detail .accord-tab {
+	background-color: #fff !important;
+	border: 1px solid #d4d4d4;
+	padding: 16px 20px !important;
+}
+.accord-block .accord-tab {
+	background-color: #f2f2f2;
+	border-top: 1px solid #d4d4d4;
+	padding: 14px 60px 13px 20px;
+	position: relative;
+	display: inline-block;
+	width: 100%;
+}
+.print-detail .accord-tab h3 {
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 22px;
+	margin: 0;
+	text-align: inherit;
+	text-transform: inherit;
+}
+.accord-block .accord-tab h3 {
+	float: left;
+}
+.print-detail .accord-tab ul {
+	float: right !important;
+	list-style: outside none none;
+	margin: 0 !important;
+	width: auto !important;
+}
+.accord-block .accord-tab ul {
+	float: right;
+	list-style: outside none none;
+	margin: 0;
+	padding: 0;
+}
+.print-detail .accord-tab li {
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 16px;
+	margin-right: 15px;
+	text-align: inherit;
+	text-transform: inherit;
+}
+.accord-block .accord-tab li {
+	display: inline-block;
+	margin-right: 15px;
+}
+.accord-block .accord-tab li:last-child {
+	margin-right: 0px;
+}
+.print-detail .accord-content {
+	-moz-border-bottom-colors: none;
+	-moz-border-left-colors: none;
+	-moz-border-right-colors: none;
+	-moz-border-top-colors: none;
+	border-color: -moz-use-text-color #d4d4d4 #d4d4d4;
+	border-image: none;
+	border-style: none solid solid;
+	border-width: 0 1px 1px;
+	display: block !important;
+	text-align: left;
+}
+.accord-block .accord-content {
+	display: none;
+	padding: 20px;
+	text-align: center;
+}
+.print-detail .accord-content p:last-child {
+	margin: 0;
+}
+.essential-list,
+.amenities-list,
+.floor-list {
+	-moz-columns: 3 auto;
+	padding-left: 10px;
+	border-bottom: 1px solid #d7d7d7;
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	margin-top: 30px;
+}
+#room_dimensions .essential-list {
+	border-bottom: none;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+.essential-list li,
+.amenities-list li,
+.floor-list li {
+	font-size: 14px;
+	line-height: 28px;
+}
+.print-block .print-block {
+	margin: 0px;
+	border: none;
+	padding: 0px;
+}
+.print-gallery-image {
+	display: inline-block;
+	margin-bottom: 3px;
+	width: 32%;
+}

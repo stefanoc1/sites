@@ -1,0 +1,224 @@
+.widget-area .widget {
+	width: 100%;
+	float: left;
+	margin-bottom: 30px;
+}
+.widget h3.widget-title {
+	font-family: "Rubik", sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+	color:#323a45;
+	text-transform: capitalize;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.widget  .widget-top {
+	background-color: #ffffff;
+    padding: 0px 25px;
+    border: 1px solid #e6ebed;
+    border-bottom: none;
+    width: 100%;
+    float:left;
+}
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute !important;
+    width: 1px;
+}
+.widget-area .widget .widget-body {
+   	background-color: #fbfdfe;
+    border: 1px solid #e4e9ed;
+    font-size: 18px;
+    padding: 20px 25px;
+    text-align: left;
+    width: 100%;
+    float: left;
+    list-style: none;
+}
+.widget-area .widget .widget-body li,
+.widget-area .widget .widget-body a {
+	padding: 5px 0;
+	color: #5f6e82;
+    font-family: "Rubik",sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+}
+.widget-body li ul li:last-child {
+    margin-bottom: 0px;
+}
+.search-page-title {
+    margin-bottom: 50px;   
+}
+/* Calendar widget */
+	
+.widget_calendar {
+	float: left;
+}
+#wp-calendar { 
+	width: 99%; border:none;
+}
+#wp-calendar caption { 
+	text-align: right; 
+	color: #333; 
+	font-size: 12px; 
+	margin-top: 10px; 
+	margin-bottom: 15px;
+}
+#wp-calendar caption {
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+#wp-calendar thead { 
+	font-size: 10px; 
+	border:none;
+}
+#wp-calendar thead th { 
+	padding-bottom: 10px; 
+	border:none; 
+	background:none; 
+	text-align:center;
+    border: 1px solid #f1f4f5;
+}
+#wp-calendar tbody { 
+	color: #aaa; 
+	border:none;
+}
+#wp-calendar tbody td { 
+	background: #fff; 
+	border: 1px solid #f1f4f5; 
+	text-align: center; 
+	padding:8px;
+}
+#wp-calendar tbody td#today { 
+	background:#aaa; 
+	color:#fff;
+}
+#wp-calendar tbody td#today:hover { 
+	background:#f90;
+}
+#wp-calendar tbody td#today a { 
+	display:block; 
+	color:#fff;
+}
+#wp-calendar tbody td:hover { 
+	background: #fff;
+}
+#wp-calendar tbody .pad { 
+	background: none;
+}
+#wp-calendar tfoot td { 
+	border:none;
+}
+#wp-calendar tfoot #next { 
+	font-size: 10px; 
+	text-transform: uppercase; 
+	text-align: right;
+}
+#wp-calendar tfoot #prev { 
+	font-size: 10px; 
+	text-transform: uppercase; 
+	padding-top: 10px;
+}
+
+/* Search Widget */
+.widget-search-button {
+    background-color: #fd7f59;
+    border: medium none;
+    box-shadow: none;
+    color: #ffffff;
+    font-family: "Rubik",sans-serif;
+    font-size: 14px;
+    height: 40px;
+    width: 50px;
+}
+.widget-search-textbox {
+	border: 1px solid #e4e9ed;
+    box-shadow: none;
+    font-family: "Rubik",sans-serif;
+    font-size: 14px;
+    height: 40px;    
+    outline: medium none;
+}
+
+/* Comment Widget */
+.widget li.recentcomments a {
+	color: #5f6e82 !important;
+    font-family: "Rubik",sans-serif !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    line-height: 1;
+    margin-bottom: 0;
+    margin-left: 7px;
+}
+
+/* Tag Cloud Widget */
+.tagcloud a,
+.tag-links a {
+	background-color: #e4edf2;
+    color: #5f6e82 !important;
+    float: left;
+    font-family: "Rubik",sans-serif !important;
+    font-size: 14px !important;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding: 10px 25px !important;
+    text-decoration: none;
+    display: inline-block;
+}
+.tagcloud a:hover,
+.tag-links a:hover {
+	background-color: #01c0c8;
+    color: #ffffff !important;
+}
+
+blockquote {
+    background-color: hsl(182, 99%, 39%);
+    border-left: medium none;
+    color: #ffffff !important;
+    display: inline-block;
+    float: left;
+    font-family: "Rubik",sans-serif;
+    font-weight: 100;
+    line-height: 1.7;
+    margin-top: 40px;
+    padding: 30px;
+    width: 100%;
+}
+.reply_list .reply_message blockquote p,
+blockquote p {
+	color: #ffffff;
+    font-family: "Rubik",sans-serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0px !important;
+}
+blockquote blockquote {
+    padding: 0px;
+    margin: 0px;
+}
+.reply_message h3 {
+    margin-top: 25px !important;
+    color: #5f6e82 !important;
+}
+blockquote a,
+.blog-listing + p a {
+    color: #FD7F59;
+    text-decoration: none;
+}
+blockquote a:hover,
+.blog-listing + p a:hover {
+    color: #6E7584;
+    text-decoration: none;
+}
+td#prev {
+    text-align: left;
+}

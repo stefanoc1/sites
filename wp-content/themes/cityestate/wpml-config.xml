@@ -1,0 +1,148 @@
+<wpml-config>
+	<custom-fields>
+		<custom-field action="translate">about_agent</custom-field>
+		<custom-field action="translate">agent_position</custom-field>
+		<custom-field action="translate">agent_company</custom-field>
+		<custom-field action="copy">agent_mobile</custom-field>
+		<custom-field action="copy">agent_office</custom-field>
+		<custom-field action="copy">agent_fax</custom-field>
+		<custom-field action="copy">agent_email</custom-field>
+		<custom-field action="copy">agent_website</custom-field>
+		<custom-field action="copy">agent_skype</custom-field>
+		<custom-field action="copy">agent_facebook</custom-field>
+		<custom-field action="copy">agent_twitter</custom-field>
+		<custom-field action="copy">agent_linkedin</custom-field>
+		<custom-field action="copy">agent_instagram</custom-field>
+		<custom-field action="copy">agent_pinterest</custom-field>
+		<custom-field action="copy">agent_googleplus</custom-field>
+		<custom-field action="copy">agent_youtube</custom-field>
+		<custom-field action="copy">agent_vimeo</custom-field>
+		<custom-field action="translate">package_time</custom-field>
+		<custom-field action="copy">package_unit</custom-field>
+		<custom-field action="copy">package_list</custom-field>
+		<custom-field action="copy">package_unlimited_list</custom-field>
+		<custom-field action="copy">package_featured</custom-field>
+		<custom-field action="copy">package_price</custom-field>
+		<custom-field action="copy">package_show</custom-field>
+		<custom-field action="copy">package_stripe_number</custom-field>
+		<custom-field action="copy">header_type</custom-field>
+		<custom-field action="translate">page_banner_title</custom-field>
+		<custom-field action="translate">page_banner_subtitle</custom-field>
+		<custom-field action="translate">page_banner_rev_slider</custom-field>
+		<custom-field action="translate">page_banner_image</custom-field>
+		<custom-field action="translate">page_banner_height</custom-field>
+		<custom-field action="translate">page_banner_overlay</custom-field>
+		<custom-field action="translate">page_banner_opacity</custom-field>
+		<custom-field action="translate">page_map_city</custom-field>
+		<custom-field action="copy">sidebar_position</custom-field>
+		<custom-field action="copy">page_sidebar</custom-field>
+		<custom-field action="copy">list_list_view</custom-field>
+		<custom-field action="copy">property_order_type</custom-field>
+		<custom-field action="copy">list_tab</custom-field>
+		<custom-field action="copy">list_tab1</custom-field>
+		<custom-field action="copy">list_tab2</custom-field>
+		<custom-field action="copy">featured_list_show</custom-field>
+		<custom-field action="copy">number_property_show</custom-field>
+		<custom-field action="copy">property_type</custom-field>
+		<custom-field action="copy">property_status</custom-field>
+		<custom-field action="copy">property_feature</custom-field>
+		<custom-field action="copy">property_area</custom-field>
+		<custom-field action="copy">property_city</custom-field>
+		<custom-field action="copy">property_location</custom-field>
+		<custom-field action="copy">featured_video_meta</custom-field>
+		<custom-field action="copy">splash_full_screen</custom-field>
+		<custom-field action="translate">splash_title</custom-field>
+		<custom-field action="translate">splash_subtitle</custom-field>
+		<custom-field action="translate">splash_search</custom-field>
+		<custom-field action="translate">splash_under_title</custom-field>
+		<custom-field action="translate">splash_image</custom-field>
+		<custom-field action="translate">splash_image_overlay</custom-field>
+		<custom-field action="translate">splash_image_opacity</custom-field>
+		<custom-field action="copy">property_price</custom-field>
+		<custom-field action="translate">featured</custom-field>
+		<custom-field action="copy">property_second_price</custom-field>
+		<custom-field action="translate">property_price_postfix</custom-field>
+		<custom-field action="copy">property_size</custom-field>
+		<custom-field action="translate">property_size_prefix</custom-field>
+		<custom-field action="copy">property_bedrooms</custom-field>
+		<custom-field action="copy">property_bathrooms</custom-field>
+		<custom-field action="copy">property_garages</custom-field>
+		<custom-field action="copy">property_year</custom-field>
+		<custom-field action="copy">property_id</custom-field>
+		<custom-field action="copy">property_zip</custom-field>
+		<custom-field action="translate">property_address</custom-field>
+		<custom-field action="translate">property_map_address</custom-field>
+		<custom-field action="translate">property_location</custom-field>
+		<custom-field action="copy">property_street_view</custom-field>
+		<custom-field action="translate">amenities_value</custom-field>
+		<custom-field action="translate">property_info_label</custom-field>
+		<custom-field action="translate">property_info_value</custom-field>
+		<custom-field action="translate">property_images</custom-field>
+		<custom-field action="copy">homeslide</custom-field>
+		<custom-field action="translate">slider_image</custom-field>
+		<custom-field action="copy">property_agent_display</custom-field>
+		<custom-field action="copy">agents</custom-field>
+		<custom-field action="translate">flooring_detail</custom-field>
+		<custom-field action="translate">goods_detail</custom-field>
+		<custom-field action="translate">interior_label</custom-field>
+		<custom-field action="translate">interior_value</custom-field>
+		<custom-field action="translate">rom_dime_label</custom-field>
+		<custom-field action="translate">rom_dime_value</custom-field>
+		<custom-field action="translate">floor_plan_title</custom-field>
+		<custom-field action="translate">floor_plan_image</custom-field>
+		<custom-field action="translate">floor_plan_size</custom-field>
+		<custom-field action="translate">floor_plan_room</custom-field>
+		<custom-field action="translate">floor_plan_bathroom</custom-field>
+		<custom-field action="translate">floor_plan_price</custom-field>
+		<custom-field action="translate">floor_plan_info</custom-field>
+		<custom-field action="translate">document_title</custom-field>
+		<custom-field action="translate">document_attachment</custom-field>
+		<custom-field action="translate">property_video_url</custom-field>
+		<custom-field action="translate">property_video_image</custom-field>
+		<custom-field action="translate">place_type</custom-field>
+		<custom-field action="translate">place_image</custom-field>
+		<custom-field action="translate">customer_text</custom-field>
+		<custom-field action="translate">customer_name</custom-field>
+		<custom-field action="translate">customer_position</custom-field>		
+		<custom-field action="translate">customer_photo</custom-field>
+		<custom-field action="copy">inv_number</custom-field>
+		<custom-field action="copy">inv_price</custom-field>
+		<custom-field action="copy">inv_date</custom-field>
+		<custom-field action="copy">inv_buyer_number</custom-field>
+	</custom-fields>
+	
+	<custom-types>
+		<custom-type translate="1">cityestate_agent</custom-type>
+		<custom-type translate="1">cityestate_invoice</custom-type>		
+		<custom-type translate="1">property</custom-type>
+		<custom-type translate="1">ce_testimonials</custom-type>
+	</custom-types>
+
+	<taxonomies>
+		<taxonomy translate="1">property_type</taxonomy>
+		<taxonomy translate="1">property_feature</taxonomy>
+		<taxonomy translate="1">property_status</taxonomy>
+		<taxonomy translate="1">property_city</taxonomy>
+		<taxonomy translate="1">property_area</taxonomy>
+		<taxonomy translate="1">property_location</taxonomy>
+		<taxonomy translate="1">property_label</taxonomy>		
+	</taxonomies>
+
+	<admin-texts>
+		<key name="cityestate_options">
+			<key name="404_title" />
+			<key name="404_description" />
+			<key name="blog_readmore_text" />
+			<key name="cityestate_footer_copyright" />
+			<key name="header_top_bar_call_text" />
+			<key name="header_top_bar_phone_number" />
+			<key name="header_top_bar_login_register" />
+			<key name="header_top_bar_slogan" />
+			<key name="header_top_bar_social_text" />
+			<key name="payment_thank_you_page_title" />
+			<key name="payment_thank_you_page_info" />
+			<key name="wire_payment_thank_you_page_title" />
+			<key name="wire_payment_thank_you_page_info" />			
+		</key>
+	</admin-texts>
+</wpml-config>
